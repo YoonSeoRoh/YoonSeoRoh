@@ -1,7 +1,7 @@
 <div>
 <h1>Hi, I'm YoonSeo👋</h1>
 <h4>✨dreaming of frontend developer✨</h4>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239255F0&title_bg=%23AAA6A6&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonSeoRoh&count_bg=%236D5CEA&title_bg=%23D6D6D6&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <br/>
 <br/>
 <br/>
